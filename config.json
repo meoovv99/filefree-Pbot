@@ -14,20 +14,20 @@
   "UPTIME": 0,
   "socks5": "socks5://user:pass:ip:port",
   "socks5tl": false,
-  "ACCESSTOKEN": "EAAD6V7os0gcBOwmZAZAfSYzhg1qspaMIXlPZAbgHd0XLbuOYfdzU5cOoGLgmFSKILYNw5uaGVHs5F4LjCGLgwbZBtxAoAZCiDAVKbn4sThgeuoX8i3UZClX0RZAXg5FNZAtdP7KkhO4Ew0e4XJrHgBcciC5Ovf48C9PNDepzbodDQmkDUfZBrfdFJD44EyuvjUpAMoCEdfCS6fQZDZD",
-  "FACEBOOK_ADMIN": "https://www.facebook.com/pcoder090/",
+  "ACCESSTOKEN": "",
+  "FACEBOOK_ADMIN": "https://www.facebook.com/huhuhuhuzz",
   "ZALO_ADMIN": "",
-  "ADMIN_NAME": "Nguyễn Trương Thiện Phát",
-  "BOTNAME": "PCODER",
-  "PREFIX": ".",
+  "ADMIN_NAME": "Vgzdz",
+  "BOTNAME": "VIP",
+  "PREFIX": "!",
   "DEVELOPERS": [
-    "100047128875560"
+    "100042699412756"
   ],
   "ADMINBOT": [
-    "100047128875560"
+    "100042699412756"
   ],
   "NDH": [
-    "100047128875560"
+    "100042699412756"
   ],
   "DATABASE": {
     "sqlite": {
@@ -36,7 +36,7 @@
   },
   "DESIGN": {
     "Theme": "rainbow",
-    "Admin": "Nguyễn Trương Thiện Phát",
+    "Admin": "Vgzdz",
     "Setup": {
       "Theme": "Mày có thể dùng các Theme như: Red and Hacker to enhance your terminal logs."
     }
